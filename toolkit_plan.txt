@@ -1,0 +1,54 @@
+PERSONAL MINI-TOOLKIT PLAN
+
+Project Name: Personal Mini-Toolkit
+
+Purpose:
+To build a menu-driven Python program that provides useful everyday tools.
+
+TOOLS AND THEIR FUNCTIONS
+
+1. Simple Calculator
+Allows users to perform addition, subtraction, multiplication and division.
+Concepts: Variables, input, conditionals, and f-strings.
+
+2. Shopping List
+Allows users to add, view and manage shopping items.
+Concepts: Lists, loops, conditionals, and f-strings.
+
+3. Study Task Manager
+Allows users to add and view study tasks.
+Concepts: Lists, loops, input, and f-strings.
+
+EXACT MAIN MENU
+
+=================================
+       PERSONAL MINI-TOOLKIT
+=================================
+1. Simple Calculator
+2. Shopping List
+3. Study Task Manager
+4. Quit
+
+Enter your choice (1-4):
+
+PROGRAM STRUCTURE
+
+- Display a welcome message.
+- Display the main menu.
+- Ask the user to enter a choice.
+- Use if, elif and else to handle choices.
+- Run the selected tool.
+- Return to the main menu after each tool.
+- Display a friendly goodbye when the user chooses Quit.
+- Handle invalid choices without crashing.
+
+PYTHON CONCEPTS
+
+- Variables
+- Input and output
+- Conditional statements
+- While loops
+- Lists
+- Functions
+- F-strings
+- Comments
